@@ -1,12 +1,13 @@
 # Boid Simulation 
 *playable boid simulation - homework project for university course*
 
-Welcome to the Boid Simulation project! This is a playable simulation of boids created using Python and Pyglet, developed as a project for a university programming course. The code is an early work in my programming journey and may need refactoring and fixing, but the game is fully functional and offers some fun.
+Welcome to the Boid Simulation project! This is a playable simulation of boids created using Python and Pyglet, developed as a project for a university programming course. The code is <strong>an early work in my programming journey</strong> (it contains mistakes and bad practices!!) and may need refactoring and fixing, but the game is fully functional and offers some fun.
 
 ## Features
 - Simulation of boid behaviors such as alignment, cohesion, and separation.
 - Interactive controls to manipulate boids and gameplay elements.
 - Playable player boid with shooting capabilities.
+
 ## Controls
 
 - N: Add a new boid at the center of the window.
@@ -24,3 +25,24 @@ Welcome to the Boid Simulation project! This is a playable simulation of boids c
 - Implement additional boid behaviors.
 - Enhance the graphical representation of boids and environment.
 - Add more interactive features and controls.
+
+## Screenshots
+
+### Alignment Rule
+![Alignment Rule](https://github.com/JakubCiesko/boid-homework/raw/doc-assets/screenshots/align.png)
+
+### Boids with Primitives
+![Boids with Primitives](https://github.com/JakubCiesko/boid-homework/raw/doc-assets/screenshots/boids_with_primitives.png)
+
+### Multiple Rules
+![Multiple Rules](https://github.com/JakubCiesko/boid-homework/raw/doc-assets/screenshots/multiple_rules.png)
+
+### Player Boid
+![Player Boid](https://github.com/JakubCiesko/boid-homework/raw/doc-assets/screenshots/player_boid.png)
+
+### Shooting
+![Shooting](https://github.com/JakubCiesko/boid-homework/raw/doc-assets/screenshots/shooting.png)
+
+### Game Over
+![Game Over](https://github.com/JakubCiesko/boid-homework/raw/doc-assets/screenshots/game_over.png)
+
