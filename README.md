@@ -1,5 +1,6 @@
-# Boid Simulation <br> *homework project for university course*
-playable boid simulation
+# Boid Simulation 
+*playable boid simulation - homework project for university course*
+
 Welcome to the Boid Simulation project! This is a playable simulation of boids created using Python and Pyglet, developed as a project for a university programming course. The code is an early work in my programming journey and may need refactoring and fixing, but the game is fully functional and offers some fun.
 
 ## Features
